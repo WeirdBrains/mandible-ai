@@ -1,0 +1,25 @@
+{
+  "name": "mandible",
+  "displayName": "Mandible",
+  "version": "1.0.0",
+  "description": "The dentist's cockpit. Read your own Mandible licenses, credentials, CE hours, spaces and events. Read-only.",
+  "author": {
+    "name": "Mandible, Inc.",
+    "url": "https://mandible.io"
+  },
+  "homepage": "https://mandible.io",
+  "repository": "https://github.com/WeirdBrains/mandible-ai",
+  "license": "MIT",
+  "keywords": [
+    "dentistry",
+    "licensing",
+    "continuing-education",
+    "credentials",
+    "mcp"
+  ],
+  "icon": "./logo.png",
+  "documentationUrl": "https://github.com/WeirdBrains/mandible-ai#readme",
+  "supportUrl": "https://mandible.io/support",
+  "privacyPolicyUrl": "https://mandible.io/privacy-policy",
+  "termsOfServiceUrl": "https://mandible.io/terms-of-service"
+}

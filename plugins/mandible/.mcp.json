@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mandible": {
+      "type": "http",
+      "url": "https://api.mandible.io/mcp/listed"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "mandible",
+  "version": "1.0.0",
+  "description": "The dentist's cockpit. Read your own Mandible licenses, credentials, CE hours, spaces and events. Read-only.",
+  "mcpServers": {
+    "mandible": {
+      "httpUrl": "https://api.mandible.io/mcp/listed",
+      "oauth": {
+        "enabled": true,
+        "scopes": [
+          "profile:read",
+          "credentials:read",
+          "spaces:read"
+        ]
+      }
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "mandible",
+  "owner": {
+    "name": "Mandible, Inc.",
+    "url": "https://mandible.io"
+  },
+  "metadata": {
+    "description": "Mandible for Claude Code: the dentist's cockpit."
+  },
+  "plugins": [
+    {
+      "name": "mandible",
+      "source": "./plugins/mandible",
+      "description": "Read your own Mandible licenses, credentials, CE hours, spaces and events. Read-only, OAuth sign-in.",
+      "category": "productivity",
+      "homepage": "https://mandible.io"
+    }
+  ]
+}
